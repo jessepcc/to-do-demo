@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1700299759943" clover="3.2.0">
+  <project timestamp="1700299759943" name="All files">
+    <metrics statements="58" coveredstatements="57" conditionals="25" coveredconditionals="25" methods="12" coveredmethods="11" elements="95" coveredelements="93" complexity="0" loc="58" ncloc="58" packages="1" files="2" classes="2"/>
+    <file name="app.ts" path="/Users/jessechow/development/to-do-full/api/src/app.ts">
+      <metrics statements="54" coveredstatements="54" conditionals="25" coveredconditionals="25" methods="11" coveredmethods="11"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="23" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="42" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="54" count="3" type="stmt"/>
+      <line num="55" count="3" type="stmt"/>
+      <line num="56" count="3" type="stmt"/>
+      <line num="57" count="3" type="stmt"/>
+      <line num="61" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+      <line num="74" count="3" type="stmt"/>
+      <line num="75" count="3" type="stmt"/>
+      <line num="76" count="3" type="stmt"/>
+      <line num="77" count="3" type="stmt"/>
+      <line num="78" count="3" type="stmt"/>
+      <line num="83" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="84" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="89" count="1" type="stmt"/>
+      <line num="95" count="1" type="stmt"/>
+      <line num="97" count="3" type="stmt"/>
+      <line num="98" count="3" type="stmt"/>
+      <line num="99" count="3" type="stmt"/>
+      <line num="100" count="3" type="stmt"/>
+      <line num="103" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="104" count="1" type="stmt"/>
+      <line num="106" count="1" type="stmt"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="114" count="1" type="stmt"/>
+    </file>
+    <file name="db.ts" path="/Users/jessechow/development/to-do-full/api/src/db.ts">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
